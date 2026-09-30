@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Prac4",
+            "request": "launch",
+            "mainClass": "Prac4",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Prac3",
+            "request": "launch",
+            "mainClass": "Prac3",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q9p",
+            "request": "launch",
+            "mainClass": "Queues.Q9p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q8p",
+            "request": "launch",
+            "mainClass": "Queues.Q8p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q7p",
+            "request": "launch",
+            "mainClass": "Queues.Q7p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q6p",
+            "request": "launch",
+            "mainClass": "Queues.Q6p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q5p",
+            "request": "launch",
+            "mainClass": "Queues.Q5p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q4p",
+            "request": "launch",
+            "mainClass": "Queues.Q4p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q3p",
+            "request": "launch",
+            "mainClass": "Queues.Q3p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q2p",
+            "request": "launch",
+            "mainClass": "Queues.Q2p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q1p",
+            "request": "launch",
+            "mainClass": "Queues.Q1p",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "S13",
+            "request": "launch",
+            "mainClass": "Stacks.S13",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "S12",
+            "request": "launch",
+            "mainClass": "Stacks.S12",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "S10",
+            "request": "launch",
+            "mainClass": "Stacks.S10",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "S7",
+            "request": "launch",
+            "mainClass": "Stacks.S7",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "masti3",
+            "request": "launch",
+            "mainClass": "Stacks.masti3",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "masti2",
+            "request": "launch",
+            "mainClass": "Stacks.masti2",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "masti",
+            "request": "launch",
+            "mainClass": "Stacks.masti",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Prac",
+            "request": "launch",
+            "mainClass": "Prac",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Queues.Q3",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Stacks.Q2",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Prac2",
+            "request": "launch",
+            "mainClass": "Prac2",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
