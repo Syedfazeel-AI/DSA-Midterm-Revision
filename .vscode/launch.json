@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BookEngine",
+            "request": "launch",
+            "mainClass": "BookEngine",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "WordIndexTree",
+            "request": "launch",
+            "mainClass": "WordIndexTree",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "PageList",
+            "request": "launch",
+            "mainClass": "PageList",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "WordIndexer",
+            "request": "launch",
+            "mainClass": "WordIndexer",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "WordIndexer",
+            "request": "launch",
+            "mainClass": "PBL.WordIndexer",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "WordIndexTree",
+            "request": "launch",
+            "mainClass": "PBL.WordIndexTree",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "PageList",
+            "request": "launch",
+            "mainClass": "PBL.PageList",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "BookEngine",
+            "request": "launch",
+            "mainClass": "PBL.BookEngine",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "BookEngine",
+            "request": "launch",
+            "mainClass": "PBL.BookEngine",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "Trees.AVLTree",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "Trees.BinaryTree",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
+            "name": "idk",
+            "request": "launch",
+            "mainClass": "idk",
+            "projectName": "DSA_prac_90dacf84"
+        },
+        {
+            "type": "java",
             "name": "Prac4",
             "request": "launch",
             "mainClass": "Prac4",

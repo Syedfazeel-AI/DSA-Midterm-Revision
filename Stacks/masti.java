@@ -10,6 +10,7 @@ public class masti {
             }
         }
         
+        
         int target = 410;
         for (int i = 0; i < bigStack.length; i++){
             int position = 0;
