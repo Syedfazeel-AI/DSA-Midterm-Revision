@@ -1,3 +1,5 @@
+package Practice;
+
 public class idk {
     public static void main(String[] args) {
         int [] arr = {34,67,90,65,78,80,45,23,12};

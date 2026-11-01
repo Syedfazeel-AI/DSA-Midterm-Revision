@@ -1,3 +1,5 @@
+package Practice;
+
 class Node{
     int data;
     Node next;

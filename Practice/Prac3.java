@@ -1,3 +1,5 @@
+package Practice;
+
 class Employee{
     String emp_id;
     String name;

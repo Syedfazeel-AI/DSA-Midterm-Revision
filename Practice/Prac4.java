@@ -1,3 +1,5 @@
+package Practice;
+
 class AiProject{
     String proj_id;
     String title;
